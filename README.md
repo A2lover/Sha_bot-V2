@@ -27,7 +27,7 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nijin-husni/Maalutty_V2) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A2lover/Sha_bot-V2) 
  
 ### The Hard Method
 ```js
