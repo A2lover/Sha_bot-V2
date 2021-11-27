@@ -29,7 +29,7 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*Maaluttye ivar aarum admin aakittilla sed aaki🥺!*",
+            "IM_NOT_ADMIN": "*enne ivar aarum admin aakittilla sed aaki🥺!*",
             "BANNED": "Appol pinne engana ok bye da monu😎!",
             "GIVE_ME_USER": "*nee oru usrine thaa😊!*",
             "ADD_DESC": "Adds someone to the group.",
@@ -222,7 +222,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*oru photokko videokko reply thaa😂!*",
-            "DOWNLOADING": "```Maalutty photo sticker aakitt ippo sheriyakki tharaam😎```"
+            "DOWNLOADING": "```Sha_bot-V2 photo sticker aakitt ippo sheriyakki tharaam😎```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -230,7 +230,7 @@
         },
         "tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
-            "ADMİN": "*Maaluttye aarum admin aakeettilla🥺!*",
+            "ADMİN": "*enne aarum admin aakeettilla🥺!*",
             "SCAN": "Checks whether the entered number is registered on WhatApp.",
             "NO": "*Please Enter Any Phone Number!*\n*Example:* ```.scan 90xxxx```",
             "SUC": "*Numbered Person Uses WhatsApp! ✅*",
@@ -244,14 +244,14 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*❤️MAALUTTY💙 already update aanallo bro😎!*",
-            "NEW_UPDATE": "*Maaluttykk update cheyyan und😊*\n .update now enn type cheyy😆 \n\n support grpil paranjo: *https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY* ```",
+            "UPDATE": "*❤️Sha_bot-V2💙 already update aanallo bro😎!*",
+            "NEW_UPDATE": "*Sha_bot-V2 update cheyyan und😊*\n .update now enn type cheyy😆 \n\n support grpil paranjo: *https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY* ```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "Maalutty update aakunnu oru5 minute w8 cheyy 😊",
+            "UPDATING": "Sha_bot-V2 update aakunnu oru5 minute w8 cheyy 😊",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*✅  Maalutty update aayi*",
-            "UPDATED_LOCAL": "*Maalutty update aayi 😎!*",
-            "AFTER_UPDATE": "*Maalutty Restart aakatte !*",
+            "UPDATED": "*✅  Sha_bot-V2 update aayi*",
+            "UPDATED_LOCAL": "*Sha_bot-V2 update aayi 😎!*",
+            "AFTER_UPDATE": "*Sha_bot-V2 Restart aakatte !*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -310,12 +310,12 @@
         "conventer": {
             "MP4TOAUDİO_DESC": "Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*Da oru videokk reply tha😹!*",
-            "MP4TOAUDİO": "```maalutty video convert cheyyatte😎..```",
-            "ANİM_STİCK": "maalutty sticker video aakkatte😎.",
-            "ANİMATE": "```maalutty sticker video aakkatte😎..```",
-            "STİCKER_DESC": "maalutty photo sticker aakatte😎.",
+            "MP4TOAUDİO": "```video convert akkano da🤔..```",
+            "ANİM_STİCK": " sticker video aakkatte😎.",
+            "ANİMATE": "``` sticker video aakkatte😎..```",
+            "STİCKER_DESC": " photo sticker aakatte😎.",
             "STİCKER_NEEDREPLY": "*Da oru stickerin reply tha😹!*",
-            "STİCKER": "```maalutty sticker photo aakkatte😎..```",
+            "STİCKER": "``` sticker photo aakkatte😎..```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -443,7 +443,7 @@
             "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
         },
         "ttp": {
-            "TTP_DESC": "maalutty text ttp aakatte😎.",
+            "TTP_DESC": " text ttp aakatte😎.",
             "ATTP_DESC": "Adds rainbow effect to the text as a sticker.",
             "NEED_WORD": "*Da monuse oru word thaada😂*",
             "ANIME_DESC": "It writes the text inside the banner the anime girl is holding",
