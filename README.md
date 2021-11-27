@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+Sha_bot-V2+WA+Bot...;Created+by+husni+and+nijin...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+Sha_bot-V2+WA+Bot...;Created+by+A2lover...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">
   <img border-radius: 15px src="IMG-20211125-WA0007.jpg" width="200" height="200"/>
@@ -6,7 +6,7 @@
 <a href="#"><img title="Sha_bot-V2" src="https://img.shields.io/badge/Sha_bot-V2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/A2lover"><img title="Author" src="https://img.shields.io/badge/Author-Husnijin-/Sha_bot-V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/A2lover"><img title="Author" src="https://img.shields.io/badge/Author-A2lover-/Sha_bot-V2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -17,7 +17,7 @@ Project created by <a href="https://github.com/A2lover">A2lover</a> to make it p
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/A2lover/Sha_bot-V2&title=maalutty%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/A2lover/Sha_bot-V2&title=Sha_bot-V2%20Views)
 
 ## Setup
 <div align="center">
