@@ -74,23 +74,14 @@ Click WA logo to Join Support Group 👇
 Click WA logo to Join public bot Group👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BUt420LTGKBHNHALHKV9jJ)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https:///J4DrqlOQYr05LnEfYCoovI)
   <div align="center">
 
   </div>
 
-### youtube👇
-
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/channel/UCllom1TvXieyxcGaanSpMvA)
 
 
-### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/Sha_bot-V2_v2/)
-
-### ❤️ Sha_bot-V2 💙 website⤵️
-
-[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://Sha_bot-V2nijinhusni.blogspot.com)
 
 
 ### ⚠️ Warning! 
