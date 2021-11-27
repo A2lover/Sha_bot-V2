@@ -67,14 +67,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY)
-  <div align="center">
-
-
-Click WA logo to Join public bot Group👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https:///J4DrqlOQYr05LnEfYCoovI)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/J4DrqlOQYr05LnEfYCoovI)
   <div align="center">
 
   </div>
@@ -92,14 +85,6 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-## Developer
-  <div align="center">
-    
-[![A2lover](https://github.com/A2lover.png?size=100)]
-
- [A2lover](https://github.com/A2lover)
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
-  </div>
     
 
 
