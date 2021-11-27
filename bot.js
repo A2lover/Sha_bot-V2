@@ -392,7 +392,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~Sha_bot-V2~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Report🥺 errors\njoin with \n https://chat.whatsapp.com/FO3JyZPm1ma3vHyEQjaToY``` ' 
+                                    '\n\n*🧚‍♂️ ' + error + '*\n\n```Report🥺 errors\njoin with \n https://chat.whatsapp.com/J4DrqlOQYr05LnEfYCoovI``` ' 
                                     , MessageType.text);
                             }
                         }
